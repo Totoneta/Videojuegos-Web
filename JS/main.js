@@ -1,3 +1,5 @@
+import { videojuegos } from "./objetos-videojuegos";
+
 /* Navbar */
 const imgmenu = document.querySelector(".img-navbar-izquierda");
 const menuvertical = document.querySelector(".menu-vertical");
@@ -86,7 +88,7 @@ function mostrarVideojuegos(videojuegos) {
         })
     });
 }
-mostrarVideojuegos(videojuegos);
+mostrarVideojuegos();
 
 
 

@@ -1,5 +1,5 @@
 /* Videojuegos */
-let videojuegos = [
+export let videojuegos = [
     {
     nombre:"Counter Strike 2", 
     descripcion:"Es un juego de estrategia y habilidad con acción emocionante y competitiva en entornos urbanos.", 
